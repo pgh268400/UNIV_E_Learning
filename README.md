@@ -7,3 +7,7 @@
 
 https://selc.or.kr/lms/main/MainView.do
 여기서 작동함.
+
+1번째 Cell - 라이브러리 가져오는 부분
+2번째 Cell - 자동 로그인 하는 부분 (팝업창이 바뀌어서 잘 작동하지 않으면 영상 보는 곳까지 수동으로 이동해주셔야 합니다.)
+3번째 Cell - 영상 자동으로 클릭해서 시청하는 부분 (URL 위치 - https://selc.or.kr/lms/lms/class/courseSchedule/doListView.do)
